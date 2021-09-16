@@ -20,3 +20,13 @@ background: linear-gradient(90deg, rgba(226,97,204,1) 0%, rgba(108,35,129,1) 100
 .feature {
     color:white;
 }
+
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+.feature ul li {
+    padding-left: 2rem;
+    background-image: url(./images/tick.png);
+}
