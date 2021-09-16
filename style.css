@@ -44,3 +44,11 @@ background: linear-gradient(90deg, rgba(226,97,204,1) 0%, rgba(108,35,129,1) 100
     align-items: center;
     justify-content: center;
 }
+
+.gallery {
+    background-color:whitesmoke;
+}
+
+.gallery img {
+    border-radius: 5%;
+}
