@@ -68,3 +68,8 @@ a {
     color: white;
     text-decoration: none;
 }
+
+.header-image {
+    height: 500px;
+    border-radius: 100%;
+}
